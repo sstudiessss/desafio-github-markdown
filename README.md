@@ -9,4 +9,6 @@
 ### 3. Colaborando
 #### 3.1 Compartilhando repositório com par 
 #### 3.2 Fazendo um clone do repositório em máquina local.
+    FEITO.
+    
 
